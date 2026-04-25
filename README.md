@@ -2,7 +2,7 @@
 
 > Practical implementation and validation of an inline Intrusion Prevention System (Suricata) protecting a vulnerable industrial PLC against multiple critical CVEs. Academic project, MSc in Informatics Engineering, University of Coimbra.
 
-📄 **[Read the full technical report (PDF)](report.pdf)** — 11 pages
+📄 **[Read the full technical report (PDF)](ISprojectFinal-3.pdf)** — 11 pages
 
 ---
 
